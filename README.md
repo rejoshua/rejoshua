@@ -1,7 +1,8 @@
 
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/106300029/227725389-375e5a60-6414-4059-bb43-346391524424.gif)
+
 <h1 align="center">Hi 👋, I'm edward joshua</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/106300029/227725389-375e5a60-6414-4059-bb43-346391524424.gif">
 
 - 🌱 I’m currently learning **python and java**
 
