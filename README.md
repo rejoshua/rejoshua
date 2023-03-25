@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center">Hi 👋, I'm edward joshua</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">frontend developer from India</h3>
 <img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/106300029/227725389-375e5a60-6414-4059-bb43-346391524424.gif">
 
 - 🌱 I’m currently learning **python and java**
