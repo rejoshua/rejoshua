@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **legendjoshua20@gmail.com**
 
-- ⚡ Fun fact i am fun
+- ⚡ Fun fact i am fun 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
