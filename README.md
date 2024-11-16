@@ -1,7 +1,7 @@
 [![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
-<h1 align="center">Hi 👋, I'm edward joshua</h1>
-<h3 align="center">frontend developer from India</h3>
-<img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/106300029/227725389-375e5a60-6414-4059-bb43-346391524424.gif">
+<h1 align="center">Hi 👋, I'M EDWARD JOSHUA </h1>
+<h3 align="center">FRONTEND DESGINER FROOM INDIA </h3>
+<img align="right"alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fluffy-gif-luffy-discover-share-gifs--278519558197402050%2F&psig=AOvVaw1Vnqb0vudcymQmd8NBUWHk&ust=1731836865110000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj2rZvJ4IkDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Figma and graphic Design**
 
