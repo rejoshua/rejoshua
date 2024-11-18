@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma and graphic Design**
 
-- 📫 How to reach me **legendjoshua20@gmail.com**
+- 📫 How to reach me **edwardjoshuacse@gmail.com**
 - ❤️‍🔥 I Love My Job
 
 - ⚡ Fun fact i am fun 😄
